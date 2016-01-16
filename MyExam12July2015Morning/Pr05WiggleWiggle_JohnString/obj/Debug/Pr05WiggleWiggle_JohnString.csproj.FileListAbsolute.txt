@@ -3,3 +3,8 @@ D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.pdb
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.exe
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.exe.config
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.pdb

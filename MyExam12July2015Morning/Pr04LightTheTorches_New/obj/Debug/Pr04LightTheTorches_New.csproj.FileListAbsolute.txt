@@ -1,6 +1,0 @@
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\bin\Debug\Pr04LightTheTorches_New.exe.config
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\bin\Debug\Pr04LightTheTorches_New.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\bin\Debug\Pr04LightTheTorches_New.pdb
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\obj\Debug\Pr04LightTheTorches_New.csprojResolveAssemblyReference.cache
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\obj\Debug\Pr04LightTheTorches_New.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches_New\obj\Debug\Pr04LightTheTorches_New.pdb

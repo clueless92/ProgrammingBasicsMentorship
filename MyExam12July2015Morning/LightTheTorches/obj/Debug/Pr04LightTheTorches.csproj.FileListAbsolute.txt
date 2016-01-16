@@ -1,3 +1,0 @@
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\bin\Debug\LightTheTorches.exe.config
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.pdb

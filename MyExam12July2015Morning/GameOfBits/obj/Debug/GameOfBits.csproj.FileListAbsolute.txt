@@ -1,6 +1,0 @@
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\bin\Debug\GameOfBits.exe.config
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\bin\Debug\GameOfBits.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\bin\Debug\GameOfBits.pdb
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\obj\Debug\GameOfBits.csprojResolveAssemblyReference.cache
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\obj\Debug\GameOfBits.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\GameOfBits\obj\Debug\GameOfBits.pdb

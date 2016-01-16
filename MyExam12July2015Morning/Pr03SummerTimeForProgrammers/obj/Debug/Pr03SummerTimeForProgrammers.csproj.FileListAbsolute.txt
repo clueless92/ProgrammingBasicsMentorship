@@ -3,3 +3,6 @@ D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\bi
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\bin\Debug\Pr03SummerTimeForProgrammers.pdb
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\obj\Debug\Pr03SummerTimeForProgrammers.exe
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\obj\Debug\Pr03SummerTimeForProgrammers.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\bin\Debug\Pr03SummerTimeForProgrammers.exe.config
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\obj\Debug\Pr03SummerTimeForProgrammers.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr03SummerTimeForProgrammers\obj\Debug\Pr03SummerTimeForProgrammers.pdb

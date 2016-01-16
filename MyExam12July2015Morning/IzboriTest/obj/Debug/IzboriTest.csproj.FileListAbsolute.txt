@@ -1,9 +1,0 @@
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\bin\Debug\IzboriTest.exe.config
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\bin\Debug\IzboriTest.exe
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\bin\Debug\IzboriTest.pdb
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\obj\Debug\IzboriTest.csprojResolveAssemblyReference.cache
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\obj\Debug\IzboriTest.exe
-D:\Workspace\C#\MyExam12July2015Morning\IzboriTest\obj\Debug\IzboriTest.pdb
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\IzboriTest\bin\Debug\IzboriTest.exe.config
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\IzboriTest\obj\Debug\IzboriTest.exe
-D:\OneDrive\Workspace\C#\MyExam12July2015Morning\IzboriTest\obj\Debug\IzboriTest.pdb

@@ -4,3 +4,9 @@ D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches\bin\Debug\P
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches\bin\Debug\Pr04LightTheTorches.pdb
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches\obj\Debug\Pr04LightTheTorches.exe
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr04LightTheTorches\obj\Debug\Pr04LightTheTorches.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\bin\Debug\Pr04LightTheTorches.exe.config
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\obj\Debug\Pr04LightTheTorches.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\obj\Debug\Pr04LightTheTorches.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\bin\Debug\Pr04LightTheTorches.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\bin\Debug\Pr04LightTheTorches.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr04LightTheTorches\obj\Debug\Pr04LightTheTorches.csprojResolveAssemblyReference.cache

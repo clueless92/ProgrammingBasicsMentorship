@@ -4,3 +4,9 @@ D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr02DetectivBoev\bin\Debug\Pr02
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.csprojResolveAssemblyReference.cache
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.exe
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\bin\Debug\Pr02DetectivBoev.exe.config
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\bin\Debug\Pr02DetectivBoev.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\bin\Debug\Pr02DetectivBoev.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr02DetectivBoev\obj\Debug\Pr02DetectivBoev.csprojResolveAssemblyReference.cache

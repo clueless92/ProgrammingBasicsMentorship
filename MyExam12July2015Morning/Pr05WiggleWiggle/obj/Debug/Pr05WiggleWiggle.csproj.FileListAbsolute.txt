@@ -4,3 +4,9 @@ D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle\bin\Debug\Pr05
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.csprojResolveAssemblyReference.cache
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.exe
 D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\bin\Debug\Pr05WiggleWiggle.exe.config
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\bin\Debug\Pr05WiggleWiggle.exe
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\bin\Debug\Pr05WiggleWiggle.pdb
+D:\GitHub\ProgrammingBasicsMentorship\MyExam12July2015Morning\Pr05WiggleWiggle\obj\Debug\Pr05WiggleWiggle.csprojResolveAssemblyReference.cache
