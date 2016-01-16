@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\bin\Debug\Pr05WiggleWiggle_JohnString.pdb
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_JohnString\obj\Debug\Pr05WiggleWiggle_JohnString.pdb

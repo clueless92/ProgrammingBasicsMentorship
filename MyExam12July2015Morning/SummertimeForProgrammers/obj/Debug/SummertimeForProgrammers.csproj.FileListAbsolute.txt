@@ -1,0 +1,14 @@
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+D:\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb

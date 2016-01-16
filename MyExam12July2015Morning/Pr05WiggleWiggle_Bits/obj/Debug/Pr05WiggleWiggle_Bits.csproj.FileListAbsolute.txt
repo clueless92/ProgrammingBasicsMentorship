@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\bin\Debug\Pr05WiggleWiggle_Bits.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\bin\Debug\Pr05WiggleWiggle_Bits.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\bin\Debug\Pr05WiggleWiggle_Bits.pdb
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\obj\Debug\Pr05WiggleWiggle_Bits.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\obj\Debug\Pr05WiggleWiggle_Bits.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\Pr05WiggleWiggle_Bits\obj\Debug\Pr05WiggleWiggle_Bits.pdb

@@ -1,0 +1,12 @@
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\bin\Debug\LightTheTorches.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\bin\Debug\LightTheTorches.pdb
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\obj\Debug\LightTheTorches.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\LightTheTorches\obj\Debug\LightTheTorches.pdb
+D:\Workspace\C#\MyExam12July2015Morning\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+D:\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.exe
+D:\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.pdb
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\LightTheTorches\obj\Debug\LightTheTorches.pdb

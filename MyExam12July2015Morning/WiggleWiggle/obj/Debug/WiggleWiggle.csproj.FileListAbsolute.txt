@@ -1,0 +1,15 @@
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\obj\Debug\WiggleWiggle.pdb
+c:\users\tilchev\documents\visual studio 2013\Projects\Solution1\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+D:\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+D:\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\obj\Debug\WiggleWiggle.pdb
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\obj\Debug\WiggleWiggle.pdb
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\WiggleWiggle\bin\Debug\WiggleWiggle.pdb

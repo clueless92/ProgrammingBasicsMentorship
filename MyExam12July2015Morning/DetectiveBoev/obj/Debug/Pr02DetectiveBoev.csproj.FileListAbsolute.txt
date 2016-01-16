@@ -1,0 +1,3 @@
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+D:\OneDrive\Workspace\C#\MyExam12July2015Morning\DetectiveBoev\obj\Debug\DetectiveBoev.pdb
