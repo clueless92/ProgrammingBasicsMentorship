@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\bin\Debug\Pr03StripedTowel.exe.config
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\bin\Debug\Pr03StripedTowel.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\bin\Debug\Pr03StripedTowel.pdb
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\obj\Debug\Pr03StripedTowel.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\obj\Debug\Pr03StripedTowel.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr03StripedTowel\obj\Debug\Pr03StripedTowel.pdb

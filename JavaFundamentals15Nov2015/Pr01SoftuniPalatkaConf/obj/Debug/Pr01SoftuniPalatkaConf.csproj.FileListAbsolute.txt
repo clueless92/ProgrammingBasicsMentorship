@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\bin\Debug\Pr01SoftuniPalatkaConf.exe.config
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\bin\Debug\Pr01SoftuniPalatkaConf.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\bin\Debug\Pr01SoftuniPalatkaConf.pdb
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\obj\Debug\Pr01SoftuniPalatkaConf.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\obj\Debug\Pr01SoftuniPalatkaConf.pdb
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr01SoftuniPalatkaConf\obj\Debug\Pr01SoftuniPalatkaConf.csprojResolveAssemblyReference.cache

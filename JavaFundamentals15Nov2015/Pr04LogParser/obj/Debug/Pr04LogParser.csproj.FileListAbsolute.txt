@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\bin\Debug\Pr04LogParser.exe.config
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\bin\Debug\Pr04LogParser.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\bin\Debug\Pr04LogParser.pdb
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\obj\Debug\Pr04LogParser.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\obj\Debug\Pr04LogParser.exe
+D:\OneDrive\Workspace\C#\JavaFundamentals15Nov2015\Pr04LogParser\obj\Debug\Pr04LogParser.pdb
