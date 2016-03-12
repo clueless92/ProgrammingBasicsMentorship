@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\bin\Debug\Pр02PetarsGame.exe.config
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\bin\Debug\Pр02PetarsGame.exe
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\bin\Debug\Pр02PetarsGame.pdb
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\obj\Debug\Pр02PetarsGame.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\obj\Debug\Pр02PetarsGame.exe
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pр02PetarsGame\obj\Debug\Pр02PetarsGame.pdb

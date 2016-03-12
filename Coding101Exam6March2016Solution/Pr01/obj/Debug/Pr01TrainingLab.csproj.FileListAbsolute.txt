@@ -1,0 +1,3 @@
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr01\bin\Debug\Pr01.exe.config
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr01\obj\Debug\Pr01.exe
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr01\obj\Debug\Pr01.pdb

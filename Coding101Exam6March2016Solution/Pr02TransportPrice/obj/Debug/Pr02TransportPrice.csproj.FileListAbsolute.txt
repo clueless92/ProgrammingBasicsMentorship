@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr02TransportPrice\bin\Debug\Pr02TransportPrice.exe.config
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr02TransportPrice\bin\Debug\Pr02TransportPrice.exe
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr02TransportPrice\bin\Debug\Pr02TransportPrice.pdb
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr02TransportPrice\obj\Debug\Pr02TransportPrice.exe
+D:\OneDrive\Workspace\C#\Coding101Exam6March2016Solution\Pr02TransportPrice\obj\Debug\Pr02TransportPrice.pdb
