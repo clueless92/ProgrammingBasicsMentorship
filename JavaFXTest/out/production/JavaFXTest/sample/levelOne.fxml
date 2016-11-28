@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="478.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LevelOneController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="478.0" onMouseExited="#onMouseExited" stroke="DODGERBLUE" strokeType="INSIDE" width="600.0" />
+      <Button fx:id="buttonStart" layoutX="34.0" layoutY="24.0" mnemonicParsing="false" onAction="#onStart" text="Start" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="478.0" stroke="BLACK" strokeType="INSIDE" width="11.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="478.0" layoutX="590.0" stroke="BLACK" strokeType="INSIDE" width="11.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="13.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="13.0" layoutY="465.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="375.0" layoutX="99.0" layoutY="1.0" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+      <Arc fx:id="obst3" fill="RED" layoutX="62.0" layoutY="416.0" length="270.0" radiusX="80.0" radiusY="80.0" startAngle="270.0" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Rectangle fx:id="obst2" arcHeight="5.0" arcWidth="5.0" fill="#ff0f00" height="35.0" layoutY="167.0" stroke="BLACK" strokeType="INSIDE" width="110.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="401.0" layoutX="188.0" layoutY="71.0" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+      <Rectangle fx:id="obst1" arcHeight="5.0" arcWidth="5.0" fill="#ff0f00" height="35.0" layoutX="106.0" layoutY="111.0" stroke="BLACK" strokeType="INSIDE" width="110.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="35.0" layoutX="221.0" layoutY="71.0" stroke="BLACK" strokeType="INSIDE" width="314.0" />
+      <Button fx:id="buttonFinish" layoutX="533.0" layoutY="430.0" mnemonicParsing="false" onAction="#onFinish" text="Finish" />
+      <Circle fx:id="obst4" fill="RED" layoutX="303.0" layoutY="42.0" radius="3.0" stroke="RED" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
