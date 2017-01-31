@@ -1,7 +1,6 @@
-/**
- * Created by Todor Ilchev on 2017-01-19.
- */
 public class AbstractNonAbstractInheritedMethod {
+
+    // is this allowed in Java?
 
     class A {
         void asd() {

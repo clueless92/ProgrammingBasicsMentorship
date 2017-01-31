@@ -3,12 +3,11 @@
  */
 public class ClassWithChildInConstructor {
 
+    // is this allowed in Java?
+
     private class Phone {
+
         Phone() {
-        }
-
-        Phone(Phone phone) {
-
         }
 
         Phone(SmartPhone phone) {
@@ -18,9 +17,6 @@ public class ClassWithChildInConstructor {
 
     private class SmartPhone extends Phone {
 
-        SmartPhone(SmartPhone phone) {
-            super(phone);
-        }
     }
 
 }
